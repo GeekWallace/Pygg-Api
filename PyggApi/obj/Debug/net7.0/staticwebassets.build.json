@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "MaNTAfiGGBhEAB9jG4EQnGqGbjfhmXODKdBcugtlTV4=",
+  "Source": "PyggApi",
+  "BasePath": "_content/PyggApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "PyggApi\\wwwroot",
+      "Source": "PyggApi",
+      "ContentRoot": "D:\\OBJECT REFERENCE LIMITED\\PROJECTS\\PYGG\\PyggApi\\PyggApi\\PyggApi\\wwwroot\\",
+      "BasePath": "_content/PyggApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\OBJECT REFERENCE LIMITED\\PROJECTS\\PYGG\\PyggApi\\PyggApi\\PyggApi\\wwwroot\\willis.png",
+      "SourceId": "PyggApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\OBJECT REFERENCE LIMITED\\PROJECTS\\PYGG\\PyggApi\\PyggApi\\PyggApi\\wwwroot\\",
+      "BasePath": "_content/PyggApi",
+      "RelativePath": "willis.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\willis.png"
+    }
+  ]
+}

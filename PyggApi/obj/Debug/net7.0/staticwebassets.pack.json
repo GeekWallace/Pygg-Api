@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\OBJECT REFERENCE LIMITED\\PROJECTS\\PYGG\\PyggApi\\PyggApi\\PyggApi\\wwwroot\\willis.png",
+      "PackagePath": "staticwebassets\\willis.png"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.PyggApi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.PyggApi.props",
+      "PackagePath": "build\\PyggApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.PyggApi.props",
+      "PackagePath": "buildMultiTargeting\\PyggApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.PyggApi.props",
+      "PackagePath": "buildTransitive\\PyggApi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
